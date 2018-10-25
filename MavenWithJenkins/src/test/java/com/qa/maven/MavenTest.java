@@ -12,7 +12,7 @@ public class MavenTest {
 		String name="Rehan";
 		System.out.println("Your name is\n"+name);
 		System.out.println("---------------------------------------");
-	}
+	}?
 	
 	@Test(priority=2)
 	public void test1(){
