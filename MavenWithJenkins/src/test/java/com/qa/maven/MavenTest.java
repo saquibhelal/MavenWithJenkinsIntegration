@@ -15,7 +15,7 @@ public class MavenTest {
 	
 	@Test(priority=2)
 	public void test1(){
-		String name="Saquib Helal......";
+		String name="Saquib Abrahim";
 		System.out.println("Your name is\n"+name);
 		System.out.println("---------------------------------------");
 	}
