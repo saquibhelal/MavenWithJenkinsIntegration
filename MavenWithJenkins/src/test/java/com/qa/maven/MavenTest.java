@@ -8,7 +8,7 @@ public class MavenTest {
 	
 	@Test(priority=1)
 	public void test(){
-		String name="Rehan";
+		String name="Rehan Abrahim";
 		System.out.println("Your name is\n"+name);
 		System.out.println("---------------------------------------");
 	}
