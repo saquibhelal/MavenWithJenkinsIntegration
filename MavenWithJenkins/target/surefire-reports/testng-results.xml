@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="com.qa.maven.MavenTest" duration-ms="77" started-at="2018-10-25T06:18:56Z" finished-at="2018-10-25T06:18:56Z">
+  <suite name="com.qa.maven.MavenTest" duration-ms="80" started-at="2018-12-06T14:08:40Z" finished-at="2018-12-06T14:08:40Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="77" started-at="2018-10-25T06:18:56Z" finished-at="2018-10-25T06:18:56Z">
+    <test name="Command line test" duration-ms="80" started-at="2018-12-06T14:08:40Z" finished-at="2018-12-06T14:08:40Z">
       <class name="com.qa.maven.MavenTest">
-        <test-method status="PASS" signature="test()[pri:1, instance:com.qa.maven.MavenTest@7f690630]" name="test" duration-ms="16" started-at="2018-10-25T06:18:56Z" finished-at="2018-10-25T06:18:56Z">
+        <test-method status="PASS" signature="test()[pri:1, instance:com.qa.maven.MavenTest@7f690630]" name="test" duration-ms="15" started-at="2018-12-06T14:08:40Z" finished-at="2018-12-06T14:08:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="test1()[pri:2, instance:com.qa.maven.MavenTest@7f690630]" name="test1" duration-ms="0" started-at="2018-10-25T06:18:56Z" finished-at="2018-10-25T06:18:56Z">
+        <test-method status="PASS" signature="test1()[pri:2, instance:com.qa.maven.MavenTest@7f690630]" name="test1" duration-ms="0" started-at="2018-12-06T14:08:40Z" finished-at="2018-12-06T14:08:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->

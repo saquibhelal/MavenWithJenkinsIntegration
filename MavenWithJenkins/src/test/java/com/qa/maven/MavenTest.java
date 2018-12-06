@@ -1,6 +1,5 @@
 package com.qa.maven;
 
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
 public class MavenTest {
